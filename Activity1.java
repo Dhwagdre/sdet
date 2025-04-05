@@ -1,5 +1,7 @@
 package JavaActivity1;
 
+import JavaActivity1.java.activity.Car;
+
 public class Activity1 {
 
 	public static void main(String[] args) {
